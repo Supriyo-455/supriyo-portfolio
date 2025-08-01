@@ -24,7 +24,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/supriyo-portfolio/', // Keep the original portfolio URL
+  base: '/', // Use root base for HashRouter
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
