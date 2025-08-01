@@ -22,14 +22,14 @@ const Contact = () => {
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn",
-      value: "supriyopaul455",
-      link: "https://linkedin.com/in/supriyopaul455",
+      value: "Supriyo Paul",
+      link: "https://www.linkedin.com/in/supriyo-paul-39638b191/",
       color: "from-blue-600 to-blue-700"
     },
     {
       icon: <MapPin className="h-5 w-5" />,
       label: "Location",
-      value: "Bangalore, India",
+      value: "Kolkata, India",
       link: null,
       color: "from-green-500 to-green-600"
     }

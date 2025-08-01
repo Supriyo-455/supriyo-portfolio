@@ -7,10 +7,10 @@ const Education = () => {
     {
       degree: "Bachelor of Technology",
       field: "Electrical Engineering",
-      institution: "Asansol Engineering College",
-      location: "Asansol, West Bengal",
-      duration: "2020 - 2024",
-      grade: "CGPA: 8.2/10",
+      institution: "Academy of Technology",
+      location: "Bandel, West Bengal",
+      duration: "2019 - 2023",
+      grade: "CGPA: 9.2/10",
       type: "Bachelor's Degree",
       highlights: [
         "Specialized in Automation and Control Systems",
@@ -21,10 +21,9 @@ const Education = () => {
     {
       degree: "Higher Secondary",
       field: "Science (PCM)",
-      institution: "Burnpur Riverside School",
-      location: "Burnpur, West Bengal", 
-      duration: "2018 - 2020",
-      grade: "Percentage: 85%",
+      institution: "Uttarpara Govt. High School",
+      location: "Uttarpara, West Bengal", 
+      duration: "2017 - 2019",
       type: "High School",
       highlights: [
         "Mathematics and Physics Excellence",
@@ -38,14 +37,14 @@ const Education = () => {
     {
       name: "Worksoft Certify",
       issuer: "Worksoft Inc.",
-      year: "2023",
+      year: "2024",
       type: "Professional Certification"
     },
     {
-      name: "SAP Automation",
-      issuer: "IBM Training",
-      year: "2023",
-      type: "Internal Certification"
+      name: "AWS Certified Cloud Practitioner",
+      issuer: "Amazon",
+      year: "2025",
+      type: "Cloud Certification"
     }
   ];
 

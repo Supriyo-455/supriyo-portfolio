@@ -8,15 +8,14 @@ const Experience = () => {
       company: "IBM",
       role: "Automation Engineer",
       duration: "Oct 2023 - Present",
-      location: "Bangalore, India",
+      location: "Bhubaneswar, India",
       type: "Full-time",
       description: [
         "Developed and maintained enterprise automation solutions using Worksoft Certify",
         "Collaborated with cross-functional teams to implement SAP automation frameworks",
         "Optimized testing processes, reducing manual effort by 60%",
-        "Led automation strategy sessions with stakeholders"
       ],
-      technologies: ["Worksoft Certify", "SAP", "Enterprise Automation", "Test Frameworks"]
+      technologies: ["Worksoft Certify", "SAP", "Enterprise Automation", "Azure DevOps", "Batch Scripting"]
     },
     {
       company: "Zospital",

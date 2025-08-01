@@ -7,22 +7,21 @@ const Projects = () => {
   const projects = [
     {
       title: "Underground Cable Fault Detection",
-      category: "IoT System",
+      category: "College Project",
       icon: <Zap className="h-6 w-6" />,
       description: "ESP32-based IoT system for detecting and broadcasting underground cable fault locations over LAN networks. Features real-time monitoring and automated alerting.",
       technologies: ["ESP32", "C++", "IoT", "LAN", "Embedded Systems"],
       highlights: ["Real-time fault detection", "LAN broadcasting", "Automated alerts"],
-      githubUrl: "https://github.com/Supriyo-455",
       color: "from-blue-500 to-cyan-500"
     },
     {
-      title: "RavTracer",
+      title: "RayTracer",
       category: "Graphics Engine",
       icon: <Monitor className="h-6 w-6" />,
       description: "Barebone raytracer implementation with custom math library and multi-threading support. Built from scratch using Win32 API for optimal performance.",
       technologies: ["C++", "Win32 API", "Multi-threading", "Graphics Programming"],
-      highlights: ["Custom math library", "Multi-threaded rendering", "Win32 integration"],
-      githubUrl: "https://github.com/Supriyo-455",
+      highlights: ["Custom math library", "Multi-threaded rendering", "Bitmap Image Generation"],
+      githubUrl: "https://github.com/Supriyo-455/Simple-ray-tracer",
       color: "from-purple-500 to-pink-500"
     },
     {
@@ -32,8 +31,7 @@ const Projects = () => {
       description: "High-performance backend service built with Go, featuring robust API design and efficient data processing capabilities.",
       technologies: ["Go", "REST API", "Backend Development", "Microservices"],
       highlights: ["High performance", "Scalable architecture", "REST API"],
-      githubUrl: "https://github.com/Supriyo-455",
-      demoUrl: "https://mintspace.demo",
+      githubUrl: "https://github.com/Supriyo-455/mintspace",
       color: "from-green-500 to-emerald-500"
     },
     {
@@ -43,8 +41,7 @@ const Projects = () => {
       description: "Advanced Tic-Tac-Toe game with AI opponent using minimax algorithm and alpha-beta pruning for optimal gameplay decisions.",
       technologies: ["Python", "Minimax Algorithm", "Game AI", "Alpha-Beta Pruning"],
       highlights: ["Unbeatable AI", "Algorithm optimization", "Interactive UI"],
-      githubUrl: "https://github.com/Supriyo-455",
-      demoUrl: "https://tictactoe-ai.demo",
+      githubUrl: "https://github.com/Supriyo-455/Unbeatable-TicTacToe-AI",
       color: "from-orange-500 to-red-500"
     }
   ];
