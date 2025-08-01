@@ -25,4 +25,13 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig({
   plugins: [react()],
   base: '/supriyo-portfolio/', // Replace with your repository name
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+  },
 });
