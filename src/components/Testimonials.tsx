@@ -5,7 +5,7 @@ import { Quote, Star, User } from "lucide-react";
 const Testimonials = () => {
   const testimonials = [
     {
-      name: "Senior Manager",
+      name: "SAP Automation Engineer",
       role: "IBM Automation Team",
       company: "IBM",
       content: "Supriyo has consistently demonstrated exceptional technical skills in automation engineering. His ability to optimize complex processes and reduce manual effort by 60% has been invaluable to our team.",
@@ -19,14 +19,6 @@ const Testimonials = () => {
       content: "During his internship, Supriyo showed remarkable proficiency in Kotlin and Android development. His integration of Firebase services and user authentication solutions exceeded our expectations.",
       rating: 5,
       avatar: "ZT"
-    },
-    {
-      name: "Project Coordinator",
-      role: "IoT Systems",
-      company: "Academy of Technology",
-      content: "Supriyo's underground cable fault detection project showcased innovative thinking and practical implementation skills. His ESP32-based solution demonstrated both technical expertise and real-world problem-solving.",
-      rating: 5,
-      avatar: "AT"
     }
   ];
 
