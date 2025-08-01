@@ -24,7 +24,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/supriyo-portfolio/', // Replace with your repository name
+  base: '/supriyo-codes-shine/', // Updated to match your actual repository name
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
