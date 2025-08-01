@@ -54,8 +54,8 @@ src/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Supriyo-455/supriyo-portfolio.git
-   cd supriyo-portfolio
+   git clone https://github.com/Supriyo-455/supriyo-codes-shine.git
+   cd supriyo-codes-shine
    ```
 
 2. **Install dependencies**
@@ -220,6 +220,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Email**: paulsupriyo64nk@gmail.com
 - **GitHub**: [@Supriyo-455](https://github.com/Supriyo-455)
 - **LinkedIn**: [Supriyo Paul](https://linkedin.com/in/supriyopaul455)
+- **Portfolio**: [https://supriyo-455.github.io/supriyo-portfolio/](https://supriyo-455.github.io/supriyo-portfolio/)
 
 ---
 
