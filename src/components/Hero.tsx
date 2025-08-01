@@ -57,7 +57,7 @@ const Hero = () => {
                 className="bg-white/10 border-white/30 text-white hover:bg-white hover:text-primary backdrop-blur-sm transition-all duration-300 transform hover:scale-105"
                 asChild
               >
-                <a href="https://linkedin.com/in/supriyopaul455" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/supriyo-paul-39638b191/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>

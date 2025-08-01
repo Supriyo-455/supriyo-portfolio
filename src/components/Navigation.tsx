@@ -96,7 +96,7 @@ const Navigation = () => {
                   {item.label}
                 </button>
               ))}
-              <Button 
+              {/* <Button 
                 size="sm" 
                 variant="outline" 
                 className="mt-2 hover:bg-primary hover:text-primary-foreground transition-all duration-300"
@@ -106,7 +106,7 @@ const Navigation = () => {
                   <Download className="mr-2 h-4 w-4" />
                   Resume
                 </a>
-              </Button>
+              </Button> */}
             </div>
           </div>
         )}
