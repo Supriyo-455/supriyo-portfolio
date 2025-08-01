@@ -7,7 +7,7 @@ const Experience = () => {
     {
       company: "IBM",
       role: "Automation Engineer",
-      duration: "Oct 2023 - Present",
+      duration: "Jan 2024 - Present",
       location: "Bhubaneswar, India",
       type: "Full-time",
       description: [
@@ -20,7 +20,7 @@ const Experience = () => {
     {
       company: "Zospital",
       role: "Android Developer Intern",
-      duration: "Jun 2023 - Aug 2023",
+      duration: "Mar 2022 - Nov 2022",
       location: "Remote",
       type: "Internship",
       description: [

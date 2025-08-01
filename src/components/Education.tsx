@@ -24,6 +24,7 @@ const Education = () => {
       institution: "Uttarpara Govt. High School",
       location: "Uttarpara, West Bengal", 
       duration: "2017 - 2019",
+      grade: "Percentage: 80%",
       type: "High School",
       highlights: [
         "Mathematics and Physics Excellence",
