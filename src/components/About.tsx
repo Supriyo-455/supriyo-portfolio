@@ -31,7 +31,7 @@ const About = () => {
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             I'm a passionate engineer who bridges the gap between complex automation systems and intuitive user experiences. 
-            With expertise spanning from enterprise automation at IBM to cutting-edge IoT projects, I love turning challenging 
+            With experience in enterprise automation at IBM and cutting-edge IoT projects, I love turning challenging 
             problems into elegant solutions.
           </p>
         </div>
@@ -66,16 +66,16 @@ const About = () => {
           <CardContent className="p-8">
             <div className="grid md:grid-cols-3 gap-8 text-center">
               <div>
-                <h3 className="text-3xl font-bold text-primary mb-2">2+</h3>
+                <h3 className="text-3xl font-bold text-primary mb-2">1+</h3>
                 <p className="text-muted-foreground">Years Experience</p>
               </div>
               <div>
-                <h3 className="text-3xl font-bold text-accent mb-2">10+</h3>
+                <h3 className="text-3xl font-bold text-accent mb-2">8+</h3>
                 <p className="text-muted-foreground">Projects Completed</p>
               </div>
               <div>
                 <h3 className="text-3xl font-bold text-primary mb-2">5+</h3>
-                <p className="text-muted-foreground">Technologies Mastered</p>
+                <p className="text-muted-foreground">Technologies Learning</p>
               </div>
             </div>
           </CardContent>

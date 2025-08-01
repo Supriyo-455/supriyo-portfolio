@@ -13,7 +13,7 @@ const Testimonials = () => {
       avatar: "IB"
     },
     {
-      name: "Tech Lead",
+      name: "Developer",
       role: "Android Development",
       company: "Zospital",
       content: "During his internship, Supriyo showed remarkable proficiency in Kotlin and Android development. His integration of Firebase services and user authentication solutions exceeded our expectations.",
@@ -84,7 +84,7 @@ const Testimonials = () => {
               <div className="grid md:grid-cols-4 gap-8 text-center">
                 <div>
                   <h3 className="text-3xl font-bold text-primary mb-2">100%</h3>
-                  <p className="text-muted-foreground">Client Satisfaction</p>
+                  <p className="text-muted-foreground">Task Completion</p>
                 </div>
                 <div>
                   <h3 className="text-3xl font-bold text-accent mb-2">60%</h3>
